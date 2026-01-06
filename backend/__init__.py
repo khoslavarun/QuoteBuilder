@@ -1,0 +1,1 @@
+# Quote Calculator backend package
